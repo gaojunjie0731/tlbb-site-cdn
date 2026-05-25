@@ -2,5 +2,5 @@
 
 Static frontend assets for https://173125.com.
 
-Current release tag: `v202605260002`
-jsDelivr base: `https://cdn.jsdelivr.net/gh/gaojunjie0731/tlbb-site-cdn@v202605260002/`
+Current release tag: `v202605260003`
+jsDelivr base: `https://cdn.jsdelivr.net/gh/gaojunjie0731/tlbb-site-cdn@v202605260003/`
