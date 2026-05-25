@@ -1,0 +1,30 @@
+{
+  "brand": "tlbb",
+  "created_at": "2026-05-21",
+  "updated_at": "2026-05-22",
+  "sources": {
+    "style_reference": "official martial MMORPG portal"
+  },
+  "assets": [
+    { "file": "bg/hero-daylight.png", "use": "homepage hero, light version" },
+    { "file": "bg/hero-dusk.png", "use": "homepage hero, dark version" },
+    { "file": "bg/hero-banner-light.png", "use": "section banner, airy version" },
+    { "file": "bg/hero-war-gate.png", "use": "launch or event hero, dramatic version" },
+    { "file": "bg/page-world-dark.png", "use": "global middle-page background; fixes empty dark body sections" },
+    { "file": "bg/side-wings-dark.png", "use": "desktop left/right side wings behind centered content" },
+    { "file": "bg/rewards-treasure.png", "use": "recharge, rewards, red-packet ranking sections" },
+    { "file": "bg/footer-warband.png", "use": "bottom CTA, download/contact/footer background" },
+    { "file": "ui/ui-reference-dark.png", "use": "UI layout reference for another session" },
+    { "file": "texture/panel-texture.png", "use": "panel or card backdrop texture" },
+    { "file": "texture/gameplay-card-sheet.png", "use": "crop or background-position for feature/gameplay cards" },
+    { "file": "svg/ornament-frame.svg", "use": "decorative frame" },
+    { "file": "svg/divider-sky.svg", "use": "section divider" },
+    { "file": "svg/badge-gold.svg", "use": "badge / emblem" },
+    { "file": "svg/panel-header.svg", "use": "panel header skin" },
+    { "file": "svg/game-panel-frame.svg", "use": "large card/panel gold frame overlay" },
+    { "file": "svg/section-title-plate.svg", "use": "section heading ornament" },
+    { "file": "svg/reward-medallion.svg", "use": "reward ranking badge / top prize marker" },
+    { "file": "svg/martial-glow-overlay.svg", "use": "subtle gold energy overlay on dark backgrounds" },
+    { "file": "svg/red-ribbon-tag.svg", "use": "event status and reward tag decoration" }
+  ]
+}
